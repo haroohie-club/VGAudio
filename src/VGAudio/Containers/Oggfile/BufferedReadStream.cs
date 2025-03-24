@@ -9,7 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Concentus.Oggfile
+namespace VGAudio.Concentus.Oggfile
 {
     /// <summary>
     /// A thread-safe, read-only, buffering stream wrapper.

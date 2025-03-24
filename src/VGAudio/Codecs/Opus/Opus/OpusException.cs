@@ -35,7 +35,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace Concentus
+namespace VGAudio.Concentus
 {
     public class OpusException : Exception
     {

@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-namespace Concentus.Oggfile
+namespace VGAudio.Concentus.Oggfile
 {
     internal class Packet : DataPacket
     {

@@ -33,16 +33,16 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-using Concentus.Celt;
-using Concentus.Common;
-using Concentus.Common.CPlusPlus;
+using VGAudio.Concentus.Celt;
+using VGAudio.Concentus.Common;
+using VGAudio.Concentus.Common.CPlusPlus;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
 
-namespace Concentus
+namespace VGAudio.Concentus
 {
     internal static class Downmix
     {

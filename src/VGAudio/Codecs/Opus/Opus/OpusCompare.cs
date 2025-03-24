@@ -33,7 +33,7 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-using Concentus.Common.CPlusPlus;
+using VGAudio.Concentus.Common.CPlusPlus;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -41,7 +41,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace Concentus
+namespace VGAudio.Concentus
 {
     internal static class OpusCompare
     {

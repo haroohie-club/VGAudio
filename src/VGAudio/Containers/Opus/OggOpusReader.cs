@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Linq;
 using System.Text;
-using Concentus.Oggfile;
+using VGAudio.Concentus.Oggfile;
 using VGAudio.Codecs.Opus;
 using VGAudio.Formats;
 using VGAudio.Formats.Opus;

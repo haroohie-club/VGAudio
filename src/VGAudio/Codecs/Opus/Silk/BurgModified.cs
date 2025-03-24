@@ -32,13 +32,13 @@
 
 #if !UNSAFE
 
-namespace Concentus.Silk
+namespace VGAudio.Concentus.Silk
 {
-    using Concentus.Celt;
-    using Concentus.Common;
-    using Concentus.Common.CPlusPlus;
-    using Concentus.Silk.Enums;
-    using Concentus.Silk.Structs;
+    using VGAudio.Concentus.Celt;
+    using VGAudio.Concentus.Common;
+    using VGAudio.Concentus.Common.CPlusPlus;
+    using VGAudio.Concentus.Silk.Enums;
+    using VGAudio.Concentus.Silk.Structs;
     using System;
     using System.Diagnostics;
 

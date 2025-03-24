@@ -1,9 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <AssemblyTitle>VGAudio</AssemblyTitle>
-    <Authors>Alex Barney, Jonko</Authors>
+    <Authors>Alex Barney</Authors>
     <Copyright>Copyright © 2016 Alex Barney</Copyright>
     <Description>A library for encoding, decoding, and manipulating audio files from video games.</Description>
     <PackageTags>audio;dspadpcm;adpcm;brstm;Nintendo</PackageTags>

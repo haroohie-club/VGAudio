@@ -33,7 +33,7 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-namespace Concentus.Celt.Enums
+namespace VGAudio.Concentus.Celt.Enums
 {
     internal static class Spread
     {

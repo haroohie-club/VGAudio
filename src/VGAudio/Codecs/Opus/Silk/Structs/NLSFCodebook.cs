@@ -30,11 +30,11 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-namespace Concentus.Silk.Structs
+namespace VGAudio.Concentus.Silk.Structs
 {
-    using Concentus.Common;
-    using Concentus.Common.CPlusPlus;
-    using Concentus.Silk.Enums;
+    using VGAudio.Concentus.Common;
+    using VGAudio.Concentus.Common.CPlusPlus;
+    using VGAudio.Concentus.Silk.Enums;
 
     /// <summary>
     /// Structure containing NLSF codebook

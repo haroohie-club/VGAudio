@@ -33,12 +33,12 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-namespace Concentus.Celt.Structs
+namespace VGAudio.Concentus.Celt.Structs
 {
-    using Concentus.Celt.Enums;
-    using Concentus.Common;
-    using Concentus.Common.CPlusPlus;
-    using Concentus.Enums;
+    using VGAudio.Concentus.Celt.Enums;
+    using VGAudio.Concentus.Common;
+    using VGAudio.Concentus.Common.CPlusPlus;
+    using VGAudio.Concentus.Enums;
     using System;
 
     internal class MDCTLookup

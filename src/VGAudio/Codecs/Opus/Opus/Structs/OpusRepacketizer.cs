@@ -33,16 +33,16 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-using Concentus.Common;
-using Concentus.Common.CPlusPlus;
-using Concentus.Enums;
+using VGAudio.Concentus.Common;
+using VGAudio.Concentus.Common.CPlusPlus;
+using VGAudio.Concentus.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
 
-namespace Concentus.Structs
+namespace VGAudio.Concentus.Structs
 {
     public class OpusRepacketizer
     {

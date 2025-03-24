@@ -39,7 +39,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace Concentus.Structs
+namespace VGAudio.Concentus.Structs
 {
     internal class StereoWidthState
     {

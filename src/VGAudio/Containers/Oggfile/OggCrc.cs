@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Concentus.Oggfile
+namespace VGAudio.Concentus.Oggfile
 {
     internal class Crc
     {

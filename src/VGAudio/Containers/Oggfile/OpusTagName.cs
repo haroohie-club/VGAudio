@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Concentus.Oggfile
+namespace VGAudio.Concentus.Oggfile
 {
     /// <summary>
     /// Specifies const string values for common tag names

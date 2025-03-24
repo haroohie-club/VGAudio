@@ -33,9 +33,9 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-using Concentus.Celt.Enums;
-using Concentus.Common;
-using Concentus.Common.CPlusPlus;
+using VGAudio.Concentus.Celt.Enums;
+using VGAudio.Concentus.Common;
+using VGAudio.Concentus.Common.CPlusPlus;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -43,7 +43,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace Concentus.Celt
+namespace VGAudio.Concentus.Celt
 {
     internal static class Laplace
     {

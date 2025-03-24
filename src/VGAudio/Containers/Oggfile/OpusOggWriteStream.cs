@@ -1,5 +1,5 @@
-﻿using Concentus.Common;
-using Concentus.Structs;
+﻿using VGAudio.Concentus.Common;
+using VGAudio.Concentus.Structs;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using VGAudio.Codecs.Opus;
 
-namespace Concentus.Oggfile
+namespace VGAudio.Concentus.Oggfile
 {
     /// <summary>
     /// A class for writing audio data as an .opus Ogg stream, using an Opus encoder provided in the constructor.

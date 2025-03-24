@@ -7,7 +7,7 @@
  ***************************************************************************/
 using System;
 
-namespace Concentus.Oggfile
+namespace VGAudio.Concentus.Oggfile
 {
     /// <summary>
     /// Provides a interface for a Vorbis logical stream container.

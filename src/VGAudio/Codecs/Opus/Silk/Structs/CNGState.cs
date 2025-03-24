@@ -30,9 +30,9 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-namespace Concentus.Silk.Structs
+namespace VGAudio.Concentus.Silk.Structs
 {
-    using Concentus.Common.CPlusPlus;
+    using VGAudio.Concentus.Common.CPlusPlus;
 
     /// <summary>
     /// Struct for CNG

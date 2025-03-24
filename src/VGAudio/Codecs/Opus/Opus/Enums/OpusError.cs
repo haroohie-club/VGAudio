@@ -33,7 +33,7 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-namespace Concentus.Enums
+namespace VGAudio.Concentus.Enums
 {
     /// <summary>
     /// Note that since most API-level errors are detected and thrown as

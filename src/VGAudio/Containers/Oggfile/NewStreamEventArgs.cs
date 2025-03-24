@@ -7,7 +7,7 @@
  ***************************************************************************/
 using System;
 
-namespace Concentus.Oggfile
+namespace VGAudio.Concentus.Oggfile
 {
     /// <summary>
     /// Event data for when a new logical stream is found in a container.

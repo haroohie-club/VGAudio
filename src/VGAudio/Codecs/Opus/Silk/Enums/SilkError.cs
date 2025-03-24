@@ -30,7 +30,7 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-namespace Concentus.Silk.Enums
+namespace VGAudio.Concentus.Silk.Enums
 {
     /// <summary>
     /// Represents error messages from a silk encoder/decoder

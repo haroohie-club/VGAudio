@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Concentus.Enums;
-using Concentus.Structs;
+using VGAudio.Concentus.Enums;
+using VGAudio.Concentus.Structs;
 using VGAudio.Codecs;
 using VGAudio.Codecs.Opus;
 using VGAudio.Formats.Pcm16;

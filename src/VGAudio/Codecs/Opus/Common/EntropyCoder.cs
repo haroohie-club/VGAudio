@@ -30,10 +30,10 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-namespace Concentus.Common
+namespace VGAudio.Concentus.Common
 {
-    using Concentus.Common;
-    using Concentus.Common.CPlusPlus;
+    using VGAudio.Concentus.Common;
+    using VGAudio.Concentus.Common.CPlusPlus;
     using System.Diagnostics;
     
     /*A range decoder.

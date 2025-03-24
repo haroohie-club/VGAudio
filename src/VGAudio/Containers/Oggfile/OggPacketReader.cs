@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.IO;
 
-namespace Concentus.Oggfile
+namespace VGAudio.Concentus.Oggfile
 {
     [System.Diagnostics.DebuggerTypeProxy(typeof(PacketReader.DebugView))]
     internal class PacketReader : IPacketProvider

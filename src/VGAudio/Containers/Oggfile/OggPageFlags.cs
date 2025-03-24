@@ -7,7 +7,7 @@
  ***************************************************************************/
 using System;
 
-namespace Concentus.Oggfile
+namespace VGAudio.Concentus.Oggfile
 {
     [Flags]
     internal enum PageFlags

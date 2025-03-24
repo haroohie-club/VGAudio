@@ -58,11 +58,11 @@
    The latter both reduces CPU time and makes the algorithm more SIMD-friendly.
 */
 
-using Concentus.Celt;
-using Concentus.Common.CPlusPlus;
+using VGAudio.Concentus.Celt;
+using VGAudio.Concentus.Common.CPlusPlus;
 using System;
 
-namespace Concentus.Common
+namespace VGAudio.Concentus.Common
 {
     /// <summary>
     /// Arbitrary-rate audio resampler originally implemented for the Speex codec.

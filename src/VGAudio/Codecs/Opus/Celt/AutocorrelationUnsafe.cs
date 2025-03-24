@@ -32,10 +32,10 @@
 
 #if UNSAFE
         
-namespace Concentus.Common
+namespace VGAudio.Concentus.Common
 {
-    using Concentus.Celt;
-    using Concentus.Common.CPlusPlus;
+    using VGAudio.Concentus.Celt;
+    using VGAudio.Concentus.Common.CPlusPlus;
 
     internal static class Autocorrelation
     {

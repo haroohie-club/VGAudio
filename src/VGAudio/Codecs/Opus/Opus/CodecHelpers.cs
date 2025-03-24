@@ -33,18 +33,18 @@
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-using Concentus.Celt;
-using Concentus.Celt.Structs;
-using Concentus.Common;
-using Concentus.Common.CPlusPlus;
-using Concentus;
-using Concentus.Enums;
-using Concentus.Silk;
-using Concentus.Silk.Structs;
-using Concentus.Structs;
+using VGAudio.Concentus.Celt;
+using VGAudio.Concentus.Celt.Structs;
+using VGAudio.Concentus.Common;
+using VGAudio.Concentus.Common.CPlusPlus;
+using VGAudio.Concentus;
+using VGAudio.Concentus.Enums;
+using VGAudio.Concentus.Silk;
+using VGAudio.Concentus.Silk.Structs;
+using VGAudio.Concentus.Structs;
 using System;
 
-namespace Concentus
+namespace VGAudio.Concentus
 {
     public static class CodecHelpers
     {
